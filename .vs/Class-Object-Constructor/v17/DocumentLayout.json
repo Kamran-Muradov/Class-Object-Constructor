@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace Code Academy\\Class-Object-Constructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A924528-9A35-4510-AD59-3607817802FB}|Class-Object-Constructor\\Class-Object-Constructor.csproj|c:\\workspace code academy\\class-object-constructor\\class-object-constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A924528-9A35-4510-AD59-3607817802FB}|Class-Object-Constructor\\Class-Object-Constructor.csproj|solutionrelative:class-object-constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A924528-9A35-4510-AD59-3607817802FB}|Class-Object-Constructor\\Class-Object-Constructor.csproj|c:\\workspace code academy\\class-object-constructor\\class-object-constructor\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A924528-9A35-4510-AD59-3607817802FB}|Class-Object-Constructor\\Class-Object-Constructor.csproj|solutionrelative:class-object-constructor\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A924528-9A35-4510-AD59-3607817802FB}|Class-Object-Constructor\\Class-Object-Constructor.csproj|c:\\workspace code academy\\class-object-constructor\\class-object-constructor\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A924528-9A35-4510-AD59-3607817802FB}|Class-Object-Constructor\\Class-Object-Constructor.csproj|solutionrelative:class-object-constructor\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Class-Object-Constructor\\Class-Object-Constructor\\Book.cs",
+              "RelativeDocumentMoniker": "Class-Object-Constructor\\Book.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Class-Object-Constructor\\Class-Object-Constructor\\Book.cs",
+              "RelativeToolTip": "Class-Object-Constructor\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T15:51:59.954Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Class-Object-Constructor\\Class-Object-Constructor\\Student.cs",
+              "RelativeDocumentMoniker": "Class-Object-Constructor\\Student.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Class-Object-Constructor\\Class-Object-Constructor\\Student.cs",
+              "RelativeToolTip": "Class-Object-Constructor\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T09:59:09.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace Code Academy\\Class-Object-Constructor\\Class-Object-Constructor\\Program.cs",
+              "RelativeDocumentMoniker": "Class-Object-Constructor\\Program.cs",
+              "ToolTip": "C:\\Workspace Code Academy\\Class-Object-Constructor\\Class-Object-Constructor\\Program.cs",
+              "RelativeToolTip": "Class-Object-Constructor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T09:26:46.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
